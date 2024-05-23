@@ -1,1 +1,2 @@
-console.log("world");
+console.log("curso programcacion fullstack");
+// modificacion para segundo commit
